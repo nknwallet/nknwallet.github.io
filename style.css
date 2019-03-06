@@ -236,20 +236,18 @@ footer a {
   font-size: 14px;
   text-align: right;
   text-decoration: none;
-
 }
 
 footer img:hover {
   transform: scale(1.1);
 }
 
-.info * {
+.info > * {
   margin-right: 15px;
 }
 
 .info img {
   transition: 0.3s;
-  vertical-align: middle;
 }
 
 .footerlogo img {
