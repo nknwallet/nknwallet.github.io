@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>B2B2D975-C6A0-4333-8CE8-4EB4AAA292AE</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-71.1%" y="-48.7%" width="242.1%" height="198.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.183706975 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="NKN-Landing-page" transform="translate(-594.000000, -1513.000000)" fill-rule="nonzero">
+            <g id="Group-2-Copy" transform="translate(565.000000, 1484.000000)">
+                <g id="Group-4" transform="translate(29.000000, 29.000000)">
+                    <circle id="Oval" fill="#BDE2FF" cx="25" cy="25" r="25"></circle>
+                    <g id="icons8-quick_mode_on" filter="url(#filter-1)" transform="translate(16.000000, 11.000000)" fill="#4E65C1">
+                        <path d="M15.8536703,0 L14.8775235,2.97758613 L12.3282107,10.7263765 L15.430963,11.3537022 L19,12.0782186 L16.7426611,14.9718654 L7.93119266,26.2813892 L7.2600923,27.1428571 L2.85000056,27.1428571 L3.97431193,24.090169 L6.40596386,17.4944196 L3.39472505,16.8847662 L0,16.1955921 L2.02637587,13.3461214 L10.8378443,0.94098744 L11.5045872,0 L15.8536703,0 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

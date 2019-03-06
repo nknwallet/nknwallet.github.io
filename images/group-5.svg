@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>419A86C7-8106-41B2-B9D8-0B749095D80F</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-58.7%" y="-58.7%" width="217.4%" height="217.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.198228034 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="NKN-Landing-page" transform="translate(-243.000000, -1513.000000)" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(214.000000, 1484.000000)">
+                <g id="Group-5" transform="translate(29.000000, 29.000000)">
+                    <circle id="Oval" fill="#BDFFCE" cx="25" cy="25" r="25"></circle>
+                    <g id="icons8-wallet" filter="url(#filter-1)" transform="translate(14.000000, 13.000000)" fill="#4EC16B">
+                        <path d="M18.1783854,-5.42101086e-20 C19.2078453,-0.0149739583 20.125,0.838541667 20.125,1.91666667 L20.125,3.83333333 L18.2083333,3.83333333 L18.2083333,1.91666667 L7.30729167,4.79166667 L20.125,4.79166667 C21.7010089,4.79166667 23,6.09065779 23,7.66666667 L23,20.125 C23,21.7010089 21.7010089,23 20.125,23 L2.875,23 C1.29899113,23 0,21.7010089 0,20.125 L0,6.94791667 C0,5.64518229 0.8984375,4.4921875 2.15625,4.16276042 L17.7291667,0.0598958333 C17.8789062,0.0224614167 18.0323891,0.00374325 18.1783854,-5.42101086e-20 Z M17.7291667,12.4583333 C16.9355469,12.4583333 16.2916667,13.1022135 16.2916667,13.8958333 C16.2916667,14.6894531 16.9355469,15.3333333 17.7291667,15.3333333 C18.5227865,15.3333333 19.1666667,14.6894531 19.1666667,13.8958333 C19.1666667,13.1022135 18.5227865,12.4583333 17.7291667,12.4583333 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
