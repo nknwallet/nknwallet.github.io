@@ -7,6 +7,7 @@
 }
 
 .background {
+  min-height: 1200px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
@@ -115,6 +116,8 @@
   width: 867px;
   object-fit: contain;
   border-radius: 10px;
+  position: absolute;
+  top: 100px;
 }
 
 .center {
@@ -132,6 +135,7 @@
 .feature {
   width: 100%;
   display: flex;
+  margin-top: 220px;
   align-items: center;
   flex-direction: column;
   justify-content: center;
@@ -150,7 +154,7 @@
 
 .feature ul li {
   font-size: 18px;
-  text-align: center;
+  text-align: left;
   padding-bottom: 15px;
 }
 
@@ -259,6 +263,7 @@ footer img:hover {
     width: 95%;
     margin-top: -30px;
     border-radius: 5px;
+    top: -70px;
   }
 
   .nkn {
@@ -280,6 +285,7 @@ footer img:hover {
   }
 
   .background {
+    min-height: 700px;
     background-size: cover;
     background-position: center;
     background-image: url(images/rectangle@.jpg);
@@ -302,6 +308,7 @@ footer img:hover {
   .feature {
     width: 95%;
     padding: 10px;
+    margin-top: 0px;
   }
 
   .puzzle1 {
